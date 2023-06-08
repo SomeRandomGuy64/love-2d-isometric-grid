@@ -47,4 +47,5 @@ function fromImageToQuads(tilesheet, tileWidth, tileHeight)
         end
     end
     return tiles
+    
 end
